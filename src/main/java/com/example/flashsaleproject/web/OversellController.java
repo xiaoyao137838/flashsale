@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import com.example.flashsaleproject.service.FlashSaleService;
 import com.example.flashsaleproject.service.OversellService;
 
-@Controller
+//@Controller
 public class OversellController {
 	
 	private OversellService oversellService;
